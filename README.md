@@ -2,6 +2,7 @@
 For now, Nothing XD
 
 # Software Patterns:
+Related repositories: https://github.com/stars/MfaXyz/lists/design-architectural-patterns
 ## Design Patterns:
 Design pattern list: Object Pooling
 
