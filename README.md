@@ -12,6 +12,7 @@ Structrural Design Patterns: Adapter, Bridge, Composite, Decorator, Façade, Fly
 
 Behavioral Design Patterns: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Null Object, Observer, State, Strategy, Template Method, Visitor, Blackboard
 
+### 18 Key Design Patterns Every Developer Should Know:
 ![18-oo-patterns](https://github.com/MfaXyz/Unity-Booster/assets/76481805/2d97ad67-1ce8-4ef8-aabd-cc0a403b861a)
 
 
