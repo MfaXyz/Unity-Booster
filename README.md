@@ -12,4 +12,4 @@ Structrural Design Patterns: Adapter, Bridge, Composite, Decorator, Façade, Fly
 Behavioral Design Patterns: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Null Object, Observer, State, Strategy, Template Method and Visitor
 
 ## Architectural Patterns:
-Architectural pattern list: service locator, layered, hexagonal
+Architectural pattern list: service locator, layered, hexagonal, MVC, MVVM
